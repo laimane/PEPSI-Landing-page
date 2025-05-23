@@ -20,5 +20,3 @@ A responsive and animated landing page inspired by the Pepsi brand. Built using 
 ## 📸 Screenshots
 
 ![Landing Page Screenshot](./screenshot.png)
-
-
